@@ -1,3 +1,4 @@
 # git_test
-not my first repo
-Hello Odin!
+HI!
+this is kinda my first repo but not really.
+BYE!
